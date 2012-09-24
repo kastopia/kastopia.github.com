@@ -1,4 +1,4 @@
-.resume {
+.yj_resume {
 	position: relative;
 	width: 74em;
 	padding: 4em;
@@ -17,16 +17,16 @@
 	
 }
 
-#skills {
+#yj_skills {
 	margin: 1em auto;
 }
 
 
-#job {
+#yj_job {
 	margin: 1em auto;
 }
 
-.border {
+.yj_border {
 	margin: 1em auto;
 	padding-bottom: 1em;
 	-webkit-box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);
