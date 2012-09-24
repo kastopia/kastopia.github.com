@@ -2,7 +2,7 @@
 	position: relative;
 	width: 74em;
 	padding: 4em;
-	margin: 4em;
+	align: center;
 	background-color: #fff0;
 
 	/* shadow */
@@ -14,7 +14,7 @@
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px; 
 	border-radius: 10px;
-	
+
 }
 
 #yj_skills {
